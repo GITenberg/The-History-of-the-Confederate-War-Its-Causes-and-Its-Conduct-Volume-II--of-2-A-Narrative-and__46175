@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8154
     wikipedia: https://en.wikipedia.org/wiki/George_Cary_Eggleston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46175#The-History-of-the-Confederate-War-Its-Causes-and-Its-Conduct-Volume-II--of-2-A-Narrative-and_
 gutenberg_issued: '2014-07-02'
 gutenberg_type: Text
 identifiers:
